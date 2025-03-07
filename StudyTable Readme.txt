@@ -13,14 +13,11 @@ This is a responsive **AI-powered educational platform** designed to help studen
 - **Deployment:** (Vercel, Netlify, AWS, etc.)
 
 ## Installation & Setup
-1. **Clone the repository:**
-   git clone https://github.com/your-username/ai-tutor.git
-   cd ai-tutor
- 
-2. **Install dependencies:**
+
+1. **Install dependencies:**
    npm install
 
-3. **Start the development server:**
+2. **Start the development server:**
    npm run dev
   
 
