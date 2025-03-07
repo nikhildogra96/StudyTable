@@ -14,33 +14,49 @@ This is a responsive **AI-powered educational platform** designed to help studen
 
 ## Installation & Setup
 1. **Clone the repository:**
-   ```bash
    git clone https://github.com/your-username/ai-tutor.git
    cd ai-tutor
-   ```
+ 
 2. **Install dependencies:**
-   ```bash
    npm install
-   ```
+
 3. **Start the development server:**
-   ```bash
    npm run dev
-   ```
+  
 
 ## Project Structure
 ```
-├── src
-│   ├── components
-│   │   ├── HeroSection.js  # Animated hero section
-│   │   ├── Navbar.js       # Navigation bar
-│   ├── assets             # Images and static assets
-│   ├── App.js             # Main App Component
-│   ├── index.js           # Entry Point
-│   ├── styles.css         # Global styles (if any)
-│
-├── public                 # Static files
-├── package.json           # Project dependencies
-├── README.md              # Project documentation
+studytable/  
+│── public/  
+│   ├── index.html  
+│── src/  
+│   ├── assets/  
+│   │   ├── react.svg  
+│   │   ├── sec1.png  
+│   │   ├── sec2.png  
+│   │   ├── sec3.png  
+│   │   ├── sec4.png  
+│   ├── components/  
+│   │   ├── AcademicNeeds.jsx  
+│   │   ├── Footer.jsx  
+│   │   ├── Header.jsx  
+│   │   ├── HeroSection.jsx  
+│   │   ├── HowWeCameToThis.jsx  
+│   │   ├── ManagingAcademicLife.jsx  
+│   │   ├── PersonalizedAssessment.jsx  
+│   │   ├── PracticeSession.jsx  
+│   ├── App.css  
+│   ├── App.jsx  
+│   ├── index.css  
+│   ├── main.jsx  
+├── .gitignore  
+├── eslint.config.js  
+├── package-lock.json  
+├── package.json  
+├── postcss.config.js  
+├── README.md  
+├── tailwind.config.js  
+├── vite.config.js
 ```
 
 ## Future Enhancements
@@ -48,8 +64,6 @@ This is a responsive **AI-powered educational platform** designed to help studen
 - 🎥 **Live Classes** integration
 - 📊 **Progress Tracking Dashboard**
 
-## Contributing
-Contributions are welcome! Feel free to fork the repo and submit PRs.
 
 
 
